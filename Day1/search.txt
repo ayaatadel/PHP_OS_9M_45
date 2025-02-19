@@ -1,0 +1,3 @@
+// how to defined constant variable
+// different isSet() isEmpty()
+
