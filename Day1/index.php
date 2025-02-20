@@ -239,7 +239,7 @@ echo $x , "<br>";
 };
 
 z();
-echo $x;
+// echo $x;
 
 
 ?>
